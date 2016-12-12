@@ -11,7 +11,7 @@
 	<key>CFBundleIconFile</key>
 	<string>AppIcon</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.TouchBarPong.Touch-Bar-Pong</string>
+	<string>com.ferdi.loesch.Touch-Bar-Pong</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -40,6 +40,8 @@
 	<string>0810</string>
 	<key>DTXcodeBuild</key>
 	<string>8B62</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.games</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.12</string>
 	<key>NSHumanReadableCopyright</key>
@@ -48,5 +50,7 @@
 	<string>Main</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
+	<key>com.apple.security.app-sandbox</key>
+	<false/>
 </dict>
 </plist>
