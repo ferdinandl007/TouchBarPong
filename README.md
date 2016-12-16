@@ -1,5 +1,4 @@
 # TouchBarPong
-Touch Bar Pong is the first game EVER brought to the Mac App Store to utilise the brand new Touch Bar.
 Pong - one of the first games ever created, brought to you using the newest apple hardware.
 
 FEATURES:
