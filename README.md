@@ -9,3 +9,5 @@ FEATURES:
 
 
 ![Screenshot](AbovePong.jpg)
+
+Icon design by Ben Chamberlain
