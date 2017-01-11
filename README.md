@@ -1,3 +1,4 @@
+
 # TouchBarPong
 Pong - one of the first games ever created, brought to you using the newest apple hardware.
 
@@ -9,5 +10,6 @@ FEATURES:
 
 
 ![Screenshot](AbovePong.jpg)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](ferdinandloesch@me.com)
 
 Icon design by Ben Chamberlain
