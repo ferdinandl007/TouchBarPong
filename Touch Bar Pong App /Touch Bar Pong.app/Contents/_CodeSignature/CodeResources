@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Actions.sks</key>
 		<data>
-		P8f3NeLnSG8XNXQuoAlKRnQUBjk=
+		0v4afC/hN9FEeekvYwCX4xiTX1A=
 		</data>
 		<key>Resources/AppIcon.icns</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		V7BFaUpjO07VUb8bry8EiNCJPss=
+		7CzkvSeRwN4zBXkxazHuay54Eow=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		old1QonGy1GyGgGAYaNtSjbk7vo=
+		jQOAdquc/lHkoK9yaKF22Dm6UHU=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		E6MQnQtobFXvvw1NF1SycBrnGWY=
+		ZMQti5VCDz6SfFaoECRHkDv5Ir0=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSViewController-Qgn-qs-G4z.nib/keyedobjects-101201.nib</key>
 		<data>
-		8TeA/W5jGeN/K9VGeci36onxjA4=
+		8D7UApGOCXgqwiBNL05TWhGqM2Y=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSViewController-Qgn-qs-G4z.nib/keyedobjects.nib</key>
 		<data>
-		L6kCPqAyuFoMnzm0LKK6h9NO4R4=
+		Vgl2GysyxfvPreEYuxhYNPgfsUY=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Qgn-qs-G4z-view-7Ib-KU-KFu.nib</key>
 		<data>
-		QVkT8boyRy0012j7nJNswMZWbXU=
+		DGfZmhnw4tQQHNk7RXK84Gz297o=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
-		YuqhfJwZoXH1q5yNkE0ZObLoe1g=
+		qWwKtrRIg+M+3b3WzyqY4kT405s=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/game.nib/keyedobjects-101201.nib</key>
 		<data>
-		4eaRNNOwElV7j0IMKzyiOQL1W5o=
+		fIuS23+Y0ZdZWva32GPxkroAI6s=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/game.nib/keyedobjects.nib</key>
 		<data>
-		H1DapYPJUGB4spEqWjPm4MIEecI=
+		cYhy/4fQl5jsHaoq7TB6okr5uLw=
 		</data>
 		<key>Resources/GameScene.sks</key>
 		<data>
-		hxAsmleJC1RHdxKNZ2T4XKl9w+8=
+		fIOn4r7rrM0xTo73fUZmMAvQojc=
 		</data>
 		<key>Resources/SantaCanvas.nib</key>
 		<data>
-		4dd8Z1QhL82vifyysCwUrD5u2dw=
+		FqsciAHKlK31HbtOKhMsUbJll9U=
 		</data>
 		<key>Resources/don.mp3</key>
 		<data>
@@ -71,178 +71,178 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			LmmjxvezdokhEIiz9prOKNoeXsU=
+			7RtuT+yQOqP+nfpiG1jmqSVSL0k=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftAVFoundation" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftAVFoundation" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftAppKit.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			5iVsA009NuczDcS8fqMQDRwJVG4=
+			VcH6NYCXvo5ZT0bUTWJ4ejtXNdo=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftAppKit" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftAppKit" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			aMXc4cfR/FKgCruNJPS6a1C7tzw=
+			BQKt3q8iXhkULe7hHaV+2dY0akM=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftCore" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftCore" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftCoreAudio.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			kc5dycrhrB9ZsglC8e8ohCQ6Kb0=
+			7fUtpOGvqBkw7yCSAfVJquiqNT4=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftCoreAudio" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftCoreAudio" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftCoreData.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			en5GEQhLulpFxvRGq5WZ+kC8UBE=
+			vBUzqbj/hJ20nBI7KQWJ2dfGyh0=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftCoreData" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftCoreData" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			sbTabohchw/2VEUzBohSXv9VFIM=
+			VzcmOkwt/da5ZolvpO5P36RlYY8=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftCoreGraphics" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftCoreGraphics" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftCoreImage.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			XaulyHT46pf3vKG8pPkAXqpk5mA=
+			e6V/EfYbaJf2EnVgOhvLhdpGVdE=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftCoreImage" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftCoreImage" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftCoreMedia.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			xNz1EyrMEnzGWqt8FB1WKWgLqUA=
+			8sz54MWfPATB/5lgjtD/z3wal3c=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftCoreMedia" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftCoreMedia" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			N6T/+Ov+qhb41Q/YUqw2ZqpCV/8=
+			J89Q9gvgXOLdLViFKFBhvLlpago=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftDarwin" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftDarwin" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			nLANbEsFdVwYZsOoSCo5ek+e3O8=
+			8wB4tz5cAdtk8TAyGRau3bqUBRU=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftDispatch" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftDispatch" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			YVXwhsiBAk3Ot10edxxonrFftG0=
+			yd8yRiLHNOGrosCBipmvpAF8FZo=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftFoundation" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftFoundation" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftGLKit.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ISqZepR0uL+gNu4opVcVs6Mkh3w=
+			vDokC4kTieMTUNSPeUh888YYXP4=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftGLKit" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftGLKit" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftGameplayKit.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			QfIsjwMCuaKxOMLqCdtzOgmM7kg=
+			FNwRWLjeoNhQ/TnS8Wds5WhROKA=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftGameplayKit" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftGameplayKit" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftIOKit.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ykn8sAGd4zFVbcr/EQ+RzuihZ7s=
+			sEFeETLkeMxJLc7jZE8Qyglqm5g=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftIOKit" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftIOKit" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			HF3LLt6VNvbF0u2Z6LBYY6GxWSA=
+			gyHmUsFWkGTdXKWMsvGmv8faYIQ=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftObjectiveC" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftObjectiveC" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftQuartzCore.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			2xaPa0FH41t+DqxTmRzObfxeNJM=
+			Fa+ktLSBW0d2oF1RFUXNVXPw7AE=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftQuartzCore" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftQuartzCore" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftSpriteKit.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			URUTqkkaQG1hIMFAUinMrwlNh+E=
+			Ak4GXHXc7K9zFs2gXp+9Yv6OkVE=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftSpriteKit" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftSpriteKit" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftXPC.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			SpaWAso5+ThMKeZEyOHBBa3Qn4w=
+			yaYTgCHb7g8p8t1Evza4Eu3TowA=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftXPC" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftXPC" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftsimd.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			1OP7nPmiDsgVMzC9oIEYZujlh6k=
+			bSD4RSRHfQljDjpd8iQgMJYlxGU=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftsimd" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: HANS MARTIN LOESCH (M24VJ3ELUP)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "com.apple.dt.runtime.swiftsimd" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ferdinand Loesch (A8PN7PE8W2)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Resources/Actions.sks</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cAHVn0SnTs9tZ2doaXI8QWYq8kHWdfkF7ttWL6GqVVI=
+			8zAal0xSHx5VrxBLnSmVz47yvqd/tIE9G/4W09CxbDQ=
 			</data>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
@@ -256,77 +256,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6ZCwf7Ov4jDbktD/JFgudIg0JAP96FyWhOooH5heM0o=
+			jk9Ak/sG9iTEr8Mx/YaDEyDxbOWfDlqBV3kRnDN0E64=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uVpwnQHqyJT6eivC86tkR+8hIjv4BoNKaOJ7Zlw6X+k=
+			Q9qNEMKHVmokunbCp5ccCAP/W107M89fu9z1ZX+bxb8=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jYQPOu+UrjgRE4uwGfmm9fss2RHrtsKmGpbB45+dOxY=
+			3QnO9QMCRXdIp87IuL+KjW0cb0qdeTImdcvdKk7BOTc=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSViewController-Qgn-qs-G4z.nib/keyedobjects-101201.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BJeyKUgXsLMMnUsf0Q7q6/dV9MPOJ7e8xaJ0UGLp7QM=
+			h4DPWifr9FytjN97xeA5azDJpFArrBKhqYKsLpNsgWA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSViewController-Qgn-qs-G4z.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uDvxhfAwTfkEpXotTE8sIQyZrSwuZa9ypvA60WVtBX4=
+			siLZZynICjCZeDZIxIr9z6wcKBZxeHkhMtS3YfnI7CE=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Qgn-qs-G4z-view-7Ib-KU-KFu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eeAkYms0kHKUe32fGcw75TKee6zOAoQYT0zZRL09Y1U=
+			Qt4h1koes2CdsZG1StZFLPNqcUnzKN2GqOdMDSiMpso=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6cph8Iwl7x1YOh+X17CcTyCOhekR1u7eylNZina4hhE=
+			uK+z7Mk8Kos6s0Aiwn9pBQJKZbAbgkJwSXdq99b6tkA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/game.nib/keyedobjects-101201.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JL5lMoRLL6z3bTwdO50JyecbcbJ5Vkn/y+Y1pBkSlko=
+			/rV5Kn9R4aXcNhGnAobeEzn/cMBdMgoDp8uTJeNyeqI=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/game.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HrR7ZLryPVcJSlQ4CPNKrXf7Rm8SGOLTH7KpJ3zy8vQ=
+			xD5EA99K/nEzID9/0rG3F04Sd74LJaPjjcvAaZEafss=
 			</data>
 		</dict>
 		<key>Resources/GameScene.sks</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zn1hsOlZgMD+EzdezK7Xv23Y0S2Hp8QRqefHt/EDN9Y=
+			+/dwT8AcIm3PpQPs62ZWYIrN2/98Sy+ZOlsKD8nz+sQ=
 			</data>
 		</dict>
 		<key>Resources/SantaCanvas.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ve0FSQmgWal+Urdf/8SN/N+m6lulXlRKe2bumnzztFU=
+			FYYSR05ER5sj5yDHfMRZmoVA2MA2kLit46sLMvP2NSY=
 			</data>
 		</dict>
 		<key>Resources/don.mp3</key>
