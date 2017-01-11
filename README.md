@@ -1,4 +1,4 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](ferdinandloesch@me.com)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8DU43PK4E8JXN)
 # TouchBarPong
 
 Pong - one of the first games ever created, brought to you using the newest apple hardware.
