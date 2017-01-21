@@ -2,7 +2,10 @@
 # TouchBarPong
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8DU43PK4E8JXN)
 
-Pong - one of the first games ever created, brought to you using the newest apple hardware.
+Pong - one of the first games ever created, brought to you using the newest apple hardware. 
+now also available on the App Store
+https://itunes.apple.com/us/app/touch-pong/id1185339859?ls=1&mt=12
+
 
 FEATURES:
 * Brand new Touch Bar support to control your Pong paddle
