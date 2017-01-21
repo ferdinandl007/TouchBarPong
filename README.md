@@ -1,7 +1,8 @@
 
-# TouchBarPong
+## TouchBarPong
 Pong - one of the first games ever created, brought to you using the newest apple hardware. 
-now also available on the App Store
+
+# now also available on the App Store
 [![Mac AppStore](https://img.shields.io/badge/mac-AppStore-green.svg)](https://itunes.apple.com/us/app/touch-pong/id1185339859?ls=1&mt=12)
 
 
