@@ -5,11 +5,19 @@ Pong - one of the first games ever created, brought to you using the newest appl
 ### now also available on the App Store
 [![Mac AppStore](https://img.shields.io/badge/mac-AppStore-green.svg)](https://itunes.apple.com/us/app/touch-pong/id1185339859?ls=1&mt=12)
 
+Features of the App Store version: 
 
-FEATURES:
+• Brand new Touch Bar support to control your Pong paddle
+• A computer opponent which improves  as you play!
+• Three difficulty modes to test your skill: Easy, Standard & Difficult
+• Local Multiplayer - Player 1 can use the touch bar or arrow keys and Player 2 uses the trackpad.
+• Simple, modern and high quality graphics
+• Can be played on Macs without Touch Bar too
+
+The free GitHub Version FEATURES:
 * Brand new Touch Bar support to control your Pong paddle
 * A computer opponent which improve as you play
-* wo difficulty modes to test your skill: Easy & Difficult
+* Two difficulty modes to test your skill: Easy & Difficult
 * Simple, modern and high-quality graphics
 
 
