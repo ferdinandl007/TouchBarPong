@@ -35,6 +35,4 @@ If you like this project and you had fun with it, you can give us a cup of coffe
 
 
 
-Concept and Icon Design by Ben Chamberlain www.bgchamberlain.com
-https://www.behance.net/gallery/46750879/Touch-Bar-Pong
 
