@@ -18,6 +18,22 @@ The free GitHub Version FEATURES:
 * Two difficulty modes to test your skill: Easy & Difficult
 * Simple, modern and high-quality graphics
 
+FEATURED ON: 
+
+Venture Beat
+* "If you have a new MacBook Pro with a Touch Bar, then there’s a great new game for you to play. It’s a variation on Pong, the Atari classic from the 1970s."
+
+Macworld
+* "Ferdinand Loesch’s TouchBar Pong turns the new MacBook Pro’s Touch Bar into a modern take on the classic video game Pong."
+"a perfect way to kill some time and play with Apple’s latest innovation!"
+
+
+Popular Mechanics
+* "Pong is one of those classic games that never dies, it just gets reborn into different forms. In this case, it's reborn on the Macbook Touch Bar. Control your paddle with the touch bar, or for less fun, with the arrow keys."
+
+cnet
+* "This is by far the funnest of the group, and works well enough to play for an extended amount of time."
+
 
 ![Screenshot](AbovePong.jpg)
 ![Screenshot](Pong-touchbar.jpg)
